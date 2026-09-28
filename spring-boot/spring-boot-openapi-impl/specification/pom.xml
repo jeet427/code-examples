@@ -13,7 +13,7 @@
 
         <swagger-annotations-version>1.5.22</swagger-annotations-version>
         <jersey-version>2.27</jersey-version>
-        <jackson-version>2.10.2</jackson-version>
+        <jackson-version>2.18.10</jackson-version>
         <jodatime-version>2.7</jodatime-version>
         <maven-plugin-version>1.0.0</maven-plugin-version>
         <junit-version>4.8.1</junit-version>
@@ -22,7 +22,7 @@
         <datatype-threetenbp-version>2.6.4</datatype-threetenbp-version>
         <spring-boot-starter-test-version>2.1.1.RELEASE</spring-boot-starter-test-version>
         <spring-boot-starter-web-version>2.1.0.RELEASE</spring-boot-starter-web-version>
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
         <migbase64-version>2.2</migbase64-version>
         <jackson-databind-nullable>0.2.1</jackson-databind-nullable>
     </properties>
